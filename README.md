@@ -1,6 +1,7 @@
 # fhir_example 
 Spring code to access fhir api \
 To run the project \
+  -> Add your config data in src/main/java/com/fhir/controller/Constants.java \
   ->Go to command \
   ->change directory to the project file \
   ->mvn jetty:run \
